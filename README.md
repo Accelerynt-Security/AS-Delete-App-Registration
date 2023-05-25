@@ -124,22 +124,6 @@ Click the one corresponding to the Logic App.
 
 ![DeleteAppRegistration_Deploy_3](Images/DeleteAppRegistration_Deploy_3.png)
 
-Click on the "**Edit**" button. This will bring us into the Logic Apps Designer.
-
-![DeleteAppRegistration_Deploy_4](Images/DeleteAppRegistration_Deploy_4.png)
-
-The step labeled "**Connections**" uses an Office365 connection created during the deployment of this playbook. Before the playbook can be run, this connection will either need to be authorized in the indicated step, or an existing authorized connection may be alternatively selected.
-
-![DeleteAppRegistration_Deploy_5](Images/DeleteAppRegistration_Deploy_5.png)
-
-To validate the connection, expand the "**Connections**" step and click the exclamation point icon next to the name matching the playbook.
-                                                                                                
-![DeleteAppRegistration_Deploy_6](Images/DeleteAppRegistration_Deploy_6.png)
-
-When prompted, sign in to validate the connection.                                                                                                
-                                                                                                
-![DeleteAppRegistration_Deploy_7](Images/DeleteAppRegistration_Deploy_7.png)
-
 
 #
 ### Granting Access to Azure Key Vault
