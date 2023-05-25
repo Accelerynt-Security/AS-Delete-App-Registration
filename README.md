@@ -72,7 +72,7 @@ Navigate to an existing Key Vault or create a new one. From the Key Vault overvi
 
 ![DeleteAppRegistration_Key_Vault_1](Images/DeleteAppRegistration_Key_Vault_1.png)
 
-Choose a name for the secret, such as "**AS-Delete-App-Registration-App-Registration-Secret**", and enter the App Registration Secret copied previously in the "**Value**" field. All other settings can be left as is. Click "**Create**". 
+Choose a name for the secret, such as "**AS-Delete-App-Registration-Playbook-App-Registration-Secret**", and enter the App Registration Secret copied previously in the "**Value**" field. All other settings can be left as is. Click "**Create**". 
 
 ![DeleteAppRegistration_Key_Vault_2](Images/DeleteAppRegistration_Key_Vault_2.png)
 
